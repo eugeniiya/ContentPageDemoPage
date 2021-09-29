@@ -11,7 +11,7 @@ namespace ContentPageDemoPage {
 	{
 		Label header = new Label
 		{
-			Text = "Младшая сестра",
+			Text = "ГЊГ«Г Г¤ГёГ Гї Г±ГҐГ±ГІГ°Г ",
 			FontSize = 40,
 			FontAttributes = FontAttributes.Bold,
 			HorizontalOptions = LayoutOptions.Center
@@ -19,56 +19,56 @@ namespace ContentPageDemoPage {
 
 		Label label1 = new Label
 		{
-			Text = "Мальчишки (Мальчишки) ",
+			Text = "ГЊГ Г«ГјГ·ГЁГёГЄГЁ (ГЊГ Г«ГјГ·ГЁГёГЄГЁ) ",
                  
 			FontSize = Device.GetNamedSize(NamedSize.Large, typeof(Label)),
 		};
 
 		Label label2 = new Label
 		{
-			Text = "Не сходят от меня с ума ",
+			Text = "ГЌГҐ Г±ГµГ®Г¤ГїГІ Г®ГІ Г¬ГҐГ­Гї Г± ГіГ¬Г  ",
 			FontSize = Device.GetNamedSize(NamedSize.Large, typeof(Label)),
 		};
 
 		Label label3 = new Label
 		{
-			Text = "Я им как младшая сестра ",
+			Text = "Гџ ГЁГ¬ ГЄГ ГЄ Г¬Г«Г Г¤ГёГ Гї Г±ГҐГ±ГІГ°Г  ",
 			FontSize = Device.GetNamedSize(NamedSize.Large, typeof(Label)),
 		};
 
 		Label label4 = new Label
 		{
-			Text = "Заварю всем чай и уложу всех спать ",
+			Text = "Г‡Г ГўГ Г°Гѕ ГўГ±ГҐГ¬ Г·Г Г© ГЁ ГіГ«Г®Г¦Гі ГўГ±ГҐГµ Г±ГЇГ ГІГј ",
 			FontSize = Device.GetNamedSize(NamedSize.Large, typeof(Label)),
 		};
 
 		Label label5 = new Label
 		{
-			Text = "Но почему же ты ",
+			Text = "ГЌГ® ГЇГ®Г·ГҐГ¬Гі Г¦ГҐ ГІГ» ",
 			FontSize = Device.GetNamedSize(NamedSize.Large, typeof(Label)),
 		};
 
 		Label label6 = new Label
 		{
-			Text = "Выбираешь их? ",
+			Text = "Г‚Г»ГЎГЁГ°Г ГҐГёГј ГЁГµ? ",
 			FontSize = Device.GetNamedSize(NamedSize.Large, typeof(Label)),
 		};
 
 		Label label7 = new Label
 		{
-			Text = "Кукол без души, что не хотят любви ",
+			Text = "ГЉГіГЄГ®Г« ГЎГҐГ§ Г¤ГіГёГЁ, Г·ГІГ® Г­ГҐ ГµГ®ГІГїГІ Г«ГѕГЎГўГЁ ",
 			FontSize = Device.GetNamedSize(NamedSize.Large, typeof(Label)),
 		};
 
 		Label label8 = new Label
 		{
-			Text = "Но когда внутри сердечко заболит ",
+			Text = "ГЌГ® ГЄГ®ГЈГ¤Г  ГўГ­ГіГІГ°ГЁ Г±ГҐГ°Г¤ГҐГ·ГЄГ® Г§Г ГЎГ®Г«ГЁГІ ",
 			FontSize = Device.GetNamedSize(NamedSize.Large, typeof(Label)),
 		};
 
 		Label label9 = new Label
 		{
-			Text = "Ты снова позвонишь, снова мне звонишь ",
+			Text = "Г’Г» Г±Г­Г®ГўГ  ГЇГ®Г§ГўГ®Г­ГЁГёГј, Г±Г­Г®ГўГ  Г¬Г­ГҐ Г§ГўГ®Г­ГЁГёГј ",
 			FontSize = Device.GetNamedSize(NamedSize.Large, typeof(Label)),
 		};
 
@@ -91,8 +91,6 @@ namespace ContentPageDemoPage {
 				label8,
 				label9
 				
-
-
 			}
 		};
 	}

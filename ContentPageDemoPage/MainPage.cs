@@ -11,7 +11,7 @@ namespace ContentPageDemoPage {
 	{
 		Label header = new Label
 		{
-			Text = "Ìëàäøàÿ ñåñòðà",
+			Text = "Младшая сестра",
 			FontSize = 40,
 			FontAttributes = FontAttributes.Bold,
 			HorizontalOptions = LayoutOptions.Center
@@ -19,56 +19,56 @@ namespace ContentPageDemoPage {
 
 		Label label1 = new Label
 		{
-			Text = "Ìàëü÷èøêè (Ìàëü÷èøêè) ",
+			Text = "Мальчишки ",
                  
 			FontSize = Device.GetNamedSize(NamedSize.Large, typeof(Label)),
 		};
 
 		Label label2 = new Label
 		{
-			Text = "Íå ñõîäÿò îò ìåíÿ ñ óìà ",
+			Text = "Не сходятот меня с ума ",
 			FontSize = Device.GetNamedSize(NamedSize.Large, typeof(Label)),
 		};
 
 		Label label3 = new Label
 		{
-			Text = "ß èì êàê ìëàäøàÿ ñåñòðà ",
+			Text = "Я им как младшая сестра ",
 			FontSize = Device.GetNamedSize(NamedSize.Large, typeof(Label)),
 		};
 
 		Label label4 = new Label
 		{
-			Text = "Çàâàðþ âñåì ÷àé è óëîæó âñåõ ñïàòü ",
+			Text = "Заварю всем чай и уложу всех спать ",
 			FontSize = Device.GetNamedSize(NamedSize.Large, typeof(Label)),
 		};
 
 		Label label5 = new Label
 		{
-			Text = "Íî ïî÷åìó æå òû ",
+			Text = "Ну почему же ты ",
 			FontSize = Device.GetNamedSize(NamedSize.Large, typeof(Label)),
 		};
 
 		Label label6 = new Label
 		{
-			Text = "Âûáèðàåøü èõ? ",
+			Text = "Выбираешь их? ",
 			FontSize = Device.GetNamedSize(NamedSize.Large, typeof(Label)),
 		};
 
 		Label label7 = new Label
 		{
-			Text = "Êóêîë áåç äóøè, ÷òî íå õîòÿò ëþáâè ",
+			Text = "Кукол без души, что не хотя любви ",
 			FontSize = Device.GetNamedSize(NamedSize.Large, typeof(Label)),
 		};
 
 		Label label8 = new Label
 		{
-			Text = "Íî êîãäà âíóòðè ñåðäå÷êî çàáîëèò ",
+			Text = "Но когда внутри сердечко заболит ",
 			FontSize = Device.GetNamedSize(NamedSize.Large, typeof(Label)),
 		};
 
 		Label label9 = new Label
 		{
-			Text = "Òû ñíîâà ïîçâîíèøü, ñíîâà ìíå çâîíèøü ",
+			Text = "Ты снова позвонишь, снова мне звонишь ",
 			FontSize = Device.GetNamedSize(NamedSize.Large, typeof(Label)),
 		};
 
